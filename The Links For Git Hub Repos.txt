@@ -1,0 +1,11 @@
+https://github.com/Rusira1234/Submit-Jokes_Backend.git
+
+https://github.com/Rusira1234/Delivery-Jokes_Backend.git
+
+https://github.com/Rusira1234/Moderate-Jokes_Backend.git
+
+https://github.com/Rusira1234/Submit-Jokes_Frontend.git
+
+https://github.com/Rusira1234/Delivery-Jokes_Frontend.git
+
+https://github.com/Rusira1234/Moderate-Jokes_Frontend.git
